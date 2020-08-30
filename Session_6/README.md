@@ -1,12 +1,8 @@
 
 ## Assignment 6 - Batch Normalization and Regularization
-
-
-***
-#### Assignment
 ***
 
-> ###### The aim of this assignment is to take the best code from the previous assignment, run for 25 epochs and report findings:
+> ##### The aim of this assignment is to take the best code from the previous assignment, run for 25 epochs and report findings:
 
 > * With L1 + Batch Norm
 > * With L2 + Batch Norm
@@ -16,12 +12,12 @@
 
 
 
-> ###### Write a single loop or iterator to iterate through these conditions
-> ###### Draw 2 graphs with proper legends showing the following:
+> ##### Write a single loop or iterator to iterate through these conditions
+> ##### Draw 2 graphs with proper legends showing the following:
 > * Validation accuracy curve for all 5 jobs above
 > * Loss curves for all 5 jobs above
 
-> ###### Find any 25 misclassified images (combined into single plot) for the GBN model. Must use the saved model from the above jobs. Must show actual and predicted class names.
+> ##### Find any 25 misclassified images (combined into single plot) for the GBN model. Must use the saved model from the above jobs. Must show actual and predicted class names.
 
 ***
 #### Parameters
@@ -89,12 +85,12 @@ Estimated Total Size (MB): 0.67
 > - The loss for various scenarios are plotted below:
 
 
-> ![My Image](https://github.com/hardayaleva5/EVA5_Phase1_Assignment/tree/master/Session_6/S6_Assignment_Solution_Images/Plot_Loss_Accuracy.png)
+> ![My Image](https://github.com/hardayaleva5/EVA5_Phase1_Assignment/blob/master/Session_6/S6_Assignment_Solution_Images/Plot_Loss_Accuracy.png)
 ***
 
 > - The accuracy for various scenarios are plotted below:
 
-> ![My Image](https://github.com/hardayaleva5/EVA5_Phase1_Assignment/tree/master/Session_6/S6_Assignment_Solution_Images/Plot_Accuracy.png)
+> ![My Image](https://github.com/hardayaleva5/EVA5_Phase1_Assignment/blob/master/Session_6/S6_Assignment_Solution_Images/Plot_Accuracy.png)
 ***
 
 
@@ -103,6 +99,6 @@ Estimated Total Size (MB): 0.67
 > - The misclassified images for the model with GBN are shown below:
 
 
-> ![My Image](https://github.com/hardayaleva5/EVA5_Phase1_Assignment/tree/master/Session_6/S6_Assignment_Solution_Images/Misclassified_Images.png)
+> ![My Image](https://github.com/hardayaleva5/EVA5_Phase1_Assignment/blob/master/Session_6/S6_Assignment_Solution_Images/Misclassified_Images.png)
 ***
 
