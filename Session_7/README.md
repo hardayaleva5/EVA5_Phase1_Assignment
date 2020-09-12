@@ -21,7 +21,6 @@
 > - Number of epochs: 25
 > - Learning Rate: 0.016
 > - Ghost Batch Norm Splits: 2
-> ##### Model architecture is built including Depthwise seperable convolutions and Dilated Convolutions
 
 > ##### Total Parameters : 657,146
 
