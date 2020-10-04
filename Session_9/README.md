@@ -14,13 +14,13 @@
 
 ***
 > ##### Modular Implementation
-> * EVA5_Session10/models/resnet.py - Resnet18 model 
-> * EVA5_Session10/config.py: Parameters needs to set to run the model
-> * EVA5_Session10/gradcam/: Gradcam implementations
-> * EVA5_Session10/lr_finder.py: Implementation to find best LR for the model
-> * EVA5_Session10/engine.py - Train and test functions
-> * EVA5_Session10/save_load.py - To load and save models
-> * EVA5_Session10/preprocessing.py - Albumentation implementation 
+> * EVA5_Session9/models/resnet.py - Resnet18 model 
+> * EVA5_Session9/config.py: Parameters needs to set to run the model
+> * EVA5_Session9/gradcam/: Gradcam implementations
+> * EVA5_Session9/lr_finder.py: Implementation to find best LR for the model
+> * EVA5_Session9/engine.py - Train and test functions
+> * EVA5_Session9/save_load.py - To load and save models
+> * EVA5_Session9/preprocessing.py - Albumentation implementation 
 
 ***
 
